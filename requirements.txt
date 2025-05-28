@@ -1,0 +1,9 @@
+gradio==4.27.0
+transformers==4.40.1
+torch>=2.0.0
+torchaudio>=2.0.0
+librosa
+ffmpeg-python
+soundfile
+numpy
+scipy
